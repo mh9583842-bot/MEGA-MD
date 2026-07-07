@@ -1,11 +1,11 @@
 {
-  "name": "mega-md",
+  "name": "AYESHA-MD",
   "description": "High performance multi-device WhatsApp bot",
-  "keywords": ["whatsapp-bot", "baileys", "mega-md"],
+  "keywords": ["whatsapp-bot", "baileys", "AYESHA-MD"],
   "repository": "https://github.com/GlobalTechInfo/MEGA-MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {GlobalTechInfo/MEGA-MD_03fcdea4ca5c431bb65ac5bea46e6dd2}
       "description": "Your session ID (get it by running the bot locally first)",
       "required": true,
       "value": ""
@@ -13,7 +13,7 @@
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number with country code (e.g. 923001234567)",
       "required": true,
-      "value": "923000000000"
+      "value": "923429010160"
     },
     "MONGO_URL": {
       "description": "MongoDB URL for persistent storage (recommended for Heroku)",
@@ -33,27 +33,27 @@
     "BOT_NAME": {
       "description": "Your bot name",
       "required": false,
-      "value": "MEGA-MD"
+      "value": "AYESHA-MD"
     },
     "BOT_OWNER": {
       "description": "Owner display name",
       "required": false,
-      "value": "GlobalTech"
+      "value": "Ayesha"
     },
     "PREFIXES": {
       "description": "Command prefixes separated by comma (e.g. .,!,/)",
       "required": false,
-      "value": "."
+      "value": "/"
     },
     "PACKNAME": {
       "description": "Sticker pack name",
       "required": false,
-      "value": "MEGA-MD"
+      "value": "AYESHA-MD"
     },
     "COMMAND_MODE": {
       "description": "Bot mode: public or private",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "TIMEZONE": {
       "description": "Your timezone (e.g. Asia/Karachi, America/New_York)",
