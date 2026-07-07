@@ -5,7 +5,7 @@
   "repository": "https://github.com/GlobalTechInfo/MEGA-MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {GlobalTechInfo/MEGA-MD_03fcdea4ca5c431bb65ac5bea46e6dd2}
+    "SESSION_ID": {GlobalTechInfo/MEGA-MD_03fcdea4ca5c431bb65ac5bea46e6dd2
       "description": "Your session ID (get it by running the bot locally first)",
       "required": true,
       "value": ""
