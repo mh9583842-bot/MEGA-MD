@@ -184,13 +184,13 @@ PAIRING_NUMBER=923001234567
 OWNER_NUMBER=923000000000        # No + sign
 
 # ── BOT IDENTITY ─────────────────────────────────────────────
-BOT_NAME=MEGA-MD-PRO
-BOT_OWNER=GlobalTechInfo
-PACKNAME=MEGA-MD
+BOT_NAME=AYESHA-MD-PRO
+BOT_OWNER=Ayesha
+PACKNAME=AYESHA-MD
 
 # ── BEHAVIOUR ────────────────────────────────────────────────
-PREFIXES=.,!,/                   # Comma-separated
-COMMAND_MODE=public              # public or private
+PREFIXES=/                   # Comma-separated
+COMMAND_MODE=private              # public or private
 TIMEZONE=Asia/Karachi
 
 # ── OPTIONAL API KEYS ────────────────────────────────────────
