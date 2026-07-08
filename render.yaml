@@ -1,17 +1,17 @@
 services:
   - type: web
-    name: mega-md
+    name: Ayesha-md
     runtime: docker
     dockerfilePath: lib/Dockerfile
     envVars:
       - key: SESSION_ID
-        value: ""
+        value: "GlobalTechInfo/MEGA-MD_0560e5c955b5206bcced0406dd2143ce"
       - key: OWNER_NUMBER
-        value: "923000000000"
+        value: "923429010160"
       - key: BOT_NAME
-        value: "MEGA-MD"
+        value: "AYESHA-MD"
       - key: COMMAND_MODE
-        value: "public"
+        value: "private"
       - key: TIMEZONE
         value: "Asia/Karachi"
       - key: MONGO_URL
