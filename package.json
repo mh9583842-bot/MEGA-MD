@@ -34,16 +34,16 @@
     "nodejs-bot",
     "javascript-bot"
   ],
-  "homepage": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "homepage": "https://github.com/mh9583842-bot/MEGA-MD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GlobalTechInfo/MEGA-MD.git"
+    "url": "git+https://github.com/mh9583842-bot/MEGA-MD.git"
   },
   "bugs": {
     "url": "https://github.com/GlobalTechInfo/MEGA-MD/issues"
   },
   "license": "MIT",
-  "author": "Qasim Ali",
+  "author": "Ayesha",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^7.0.0-rc13",
