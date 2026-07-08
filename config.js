@@ -1,5 +1,5 @@
 import 'dotenv/config';
-const _prefixes = process.env.PREFIXES ? process.env.PREFIXES.split('/') : ['.', '!', '/', '#'];
+const _prefixes = process.env.PREFIXES ? process.env.PREFIXES.split('.') : ['.', '!', '/', '#'];
 const config = {
     // Bot Identity
     botName: process.env.BOT_NAME || 'AYESHA-MD',
@@ -19,7 +19,7 @@ const config = {
     updateZipUrl: process.env.UPDATE_URL || 'https://github.com/GlobalTechInfo/MEGA-MD/archive/refs/heads/main.zip',
     ytChannel: process.env.YT_CHANNEL || 'GlobalTechInfo',
     // Session
-    sessionId: process.env.SESSION_ID || 'GlobalTechInfo/MEGA-MD_03fcdea4ca5c431bb65ac5bea46e6dd2',
+    sessionId: process.env.SESSION_ID || 'GlobalTechInfo/MEGA-MD_0560e5c955b5206bcced0406dd2143ce',
     pairingNumber: process.env.PAIRING_NUMBER || '923429010160',
     // Performance
     port: Number(process.env.PORT) || 5000,
