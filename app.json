@@ -2,13 +2,13 @@
   "name": "AYESHA-MD",
   "description": "High performance multi-device WhatsApp bot",
   "keywords": ["whatsapp-bot", "baileys", "AYESHA-MD"],
-  "repository": "https://github.com/GlobalTechInfo/MEGA-MD",
+  "repository": "https://github.com/mh9583842-bot/MEGA-MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {GlobalTechInfo/MEGA-MD_03fcdea4ca5c431bb65ac5bea46e6dd2
+    "SESSION_ID": {
       "description": "Your session ID (get it by running the bot locally first)",
       "required": true,
-      "value": ""
+      "value": "GlobalTechInfo/MEGA-MD_0560e5c955b5206bcced0406dd2143ce"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number with country code (e.g. 923001234567)",
@@ -43,7 +43,7 @@
     "PREFIXES": {
       "description": "Command prefixes separated by comma (e.g. .,!,/)",
       "required": false,
-      "value": "/"
+      "value": "."
     },
     "PACKNAME": {
       "description": "Sticker pack name",
